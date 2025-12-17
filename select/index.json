@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "花唄",
+  "base_artist": "GReeeeN",
+  "createdAt": "2025-12-17T08:08:37.603604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プルメリア -花唄- (Aqua Timez)",
+      "artist": "Orgel Sound J-Pop",
+      "has_synced": false,
+      "path": "select/01_プルメリア_-花唄-_(Aqua_Timez)_Orgel_Sound_J-Pop.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花唄",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/02_花唄_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プルメリア ~花唄~",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/03_プルメリア_~花唄~_Aqua_Timez.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花唄 - Hanauta",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/04_花唄_-_Hanauta_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花唄",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/05_花唄_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プルメリア 〜花唄〜",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/06_プルメリア_〜花唄〜_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ブルメリア ～花唄～",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/07_ブルメリア_~花唄~_Aqua_Timez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花唄",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_花唄_GReeeeN.txt"
+    }
+  ]
+}
